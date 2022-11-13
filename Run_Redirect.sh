@@ -2,7 +2,7 @@
 # Cloud Configuration
 # 酷安@阿巴酱(Petit Abba)
 # 所有路径都已验证(√)
-Version="202107311440"
+Version="202211131026"
 
 #绝对路径
 if [[ -d /data/adb/modules/Third_Party_Redirect ]]; then
@@ -50,6 +50,9 @@ OFF="
 请将此页面截图并说明问题
 
 更新内容:
+#202211131026
+添加1DM，123云盘，Telegram
+
 #202107311440
 脚本优化
 
@@ -229,7 +232,7 @@ Download '迅雷' 'Android/data/com.xunlei.downloadprovider/files/ThunderDownloa
 Download '钉钉' 'DingTalk'
 Download 'ADM' 'ADM'
 Download 'IDM+' 'IDMP'
-Download 'IDM+' 'IDMP'
+Download '1DM' 'Download/1DMP'
 Download 'TapTap' 'Android/data/com.taptap/files/Download/taptaptmp'
 Download '大白云' '大白·Cloud'
 Download '磁力云' 'happy.cloud'
@@ -237,8 +240,8 @@ Download '豌豆荚' 'wandoujia/downloader/apk'
 Download '文叔叔' 'Wenshushu/Download'
 Download '百度App' 'Android/data/com.baidu.searchbox/files/downloads'
 Download '腾讯微云' '微云保存的文件'
-Download '天翼云盘' "ecloud"
-Download '123云盘' "123云盘"
+Download '天翼云盘' 'ecloud'
+Download '123云盘' '123云盘'
 Download '阿里云盘' 'AliYunPan'
 Download '百度网盘' 'BaiduNetdisk'
 Download '曲奇云盘' 'quqi/pan/download'
